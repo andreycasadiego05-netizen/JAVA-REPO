@@ -11,7 +11,7 @@ public class Lab03DatosConSentido {
 
 
         // TODO 2: Declarar e inicializar las cinco variables con nombres claros.
-        string nombre = "thomas";
+        String nombre = "thomas";
         int edad = 17;
         double temperatura = 28.2;
         char inicial = 'C';
